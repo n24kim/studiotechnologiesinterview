@@ -1,0 +1,24 @@
+table, th, td {
+  border: 1px solid black;  
+  text-align: center;
+}
+
+table {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+th {
+  width: 60px;
+}
+
+.score {
+  text-indent: 20px;
+}
+
+.submit-button {
+  border-width: 1px 2px 2px 1px;
+  border-color: black;
+  border-style: solid;
+}
+
